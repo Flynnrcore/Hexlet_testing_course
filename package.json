@@ -1,0 +1,23 @@
+{
+  "name": "hexlet_testing_course",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "create tests for JS functions",
+  "main": "capitalize.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flynnrcore/Hexlet_testing_course.git"
+  },
+  "author": "Vladislav Ulyanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flynnrcore/Hexlet_testing_course/issues"
+  },
+  "homepage": "https://github.com/Flynnrcore/Hexlet_testing_course#readme"
+}
